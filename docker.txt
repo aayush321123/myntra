@@ -1,0 +1,8 @@
+sudo apt-get update
+sudo apt install docker.io
+sudo snap install docker 
+docker --version
+sudo docker run hello-world
+sudo docker images
+sudo systemctl status docker
+sudo docker images
